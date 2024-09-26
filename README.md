@@ -1,4 +1,4 @@
-## Hi, I'm Junho Park @parkjuno0309
+## Hi, 👋 I'm Junho Park
 
 **Hello World! I'm a Computer Science student @Northwestern University who worked as a SWE Intern @[**Kinetik**](https://kinetik.care/) and @[**SparkLabs**](https://www.sparklabs.co.kr/sp/).**
 
